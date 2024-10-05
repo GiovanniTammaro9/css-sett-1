@@ -31,3 +31,8 @@ h6{
 #titolo{
     color: blue;
 }
+
+h2,h3,h4{
+    text-align: center;
+    color: white;
+}
