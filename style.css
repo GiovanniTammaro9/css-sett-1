@@ -36,3 +36,14 @@ h2,h3,h4{
     text-align: center;
     color: white;
 }
+
+a.bianco:link{
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+a.bianco:hover{
+    color:blue;
+}
